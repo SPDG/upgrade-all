@@ -1,0 +1,16 @@
+galaxy_info:
+  author: Tomasz Skręt
+  description: your description
+  company: SPDG
+
+  license: MIT
+
+  min_ansible_version: 2.6
+
+  galaxy_tags:
+    - ubuntu
+    - apt
+    - upgrade
+    - update
+
+dependencies: []
